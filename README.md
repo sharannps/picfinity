@@ -1,0 +1,2 @@
+# picfinity
+Developed a photo-sharing web application using Django with secure user authentication and registration. Implemented full CRUD operations for user posts. Enabled interactive features including like/dislike actions, follow/unfollow functionality, user search, and personalized user suggestions.
